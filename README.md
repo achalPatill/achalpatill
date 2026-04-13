@@ -47,7 +47,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achalpatill&theme=tokyo-night"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/achalpatill/achalpatill/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
