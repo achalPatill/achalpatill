@@ -9,14 +9,30 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 3rd Year IT Student
-* 💻 Working with **MERN Stack + AI APIs**
-* 🧠 Learning **DSA + System Design**
-* ⚡ Turning ideas into real-world products
-* 🚀 Goal: Crack top tech placements
+## 🧑‍💻 About Me
 
+Hey! I'm Achal — a developer who loves building things that actually work (most of the time 😅).
+
+- ⚙️ Working with **MERN Stack + AI APIs**
+- 🧩 Solving problems with **DSA & logic**
+- 🚀 Building real-time and scalable applications
+- 🧠 Always learning something new
+
+💬 Just another dev who still trusts `console.log()` more than anything.
 ---
 
+
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -28,11 +44,27 @@
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,cpp,java,python,tailwind,redux,git,github,vscode" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql)
 
----
+![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![Redux](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwind-css)
+
+![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+
+![Render](https://img.shields.io/badge/render-green?style=for-the-badge&logo=render)
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+![Canva](https://img.shields.io/badge/canva-cyan?style=for-the-badge&logo=canva)
 
 
 ## 📊 GitHub Stats
@@ -58,15 +90,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/achalpatill/achalpatill/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
+----
 
 ## ⚡ Fun Fact
 
