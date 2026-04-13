@@ -7,7 +7,6 @@
 
 ---
 
-## 🧑‍💻 About Me
 
 ## 🧑‍💻 About Me
 
@@ -21,18 +20,11 @@ Hey! I'm Achal — a developer who loves building things that actually work (mos
 💬 Just another dev who still trusts `console.log()` more than anything.
 ---
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br><br>
 
 
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
 ## 🌐 Connect With Me
 
 <p align="center">
