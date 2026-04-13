@@ -20,8 +20,7 @@ Hey! I'm Achal — a developer who loves building things that actually work (mos
 💬 Just another dev who still trusts `console.log()` more than anything.
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
-
+<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ## 🌐 Connect With Me
 
